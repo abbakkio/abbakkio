@@ -70,7 +70,7 @@
 
     <!-- Prompt line 2 -->
     <text x="18" y="49" class="mono code">
-      <tspan class="prompt">➜</tspan> <tspan fill="#60a5fa">~</tspan> <tspan class="comment">// crafting elegant native Swift widgets, Python userbots &amp; web apps</tspan>
+      <tspan class="prompt">➜</tspan> <tspan fill="#60a5fa">~</tspan> <tspan class="comment">// exploring mathematics, systems &amp; software craftsmanship</tspan>
       <tspan class="cursor">█</tspan>
     </text>
   </g>

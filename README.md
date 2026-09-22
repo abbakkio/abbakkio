@@ -25,10 +25,6 @@
     "Applied Mathematics & Algorithms",
     "Minimalist Monospace & Terminal UI/UX"
   ],
-  "current_projects": [
-    "Terminal Widgets (macOS MediaRemote daemon)",
-    "Modular Telegram Userbot (Whisper AI)"
-  ],
   "home": "https://abbakkio.dev"
 }
 ```
