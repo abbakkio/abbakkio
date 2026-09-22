@@ -22,7 +22,7 @@
   </defs>
 
   <style>
-    .mono { font-family: -apple-system, BlinkMacSystemFont, "SF Mono", "Fira Code", Menlo, Monaco, Consolas, monospace; }
+    .mono { font-family: "SF Mono", "Fira Code", Menlo, Monaco, Consolas, monospace; }
     .title { font-weight: 700; font-size: 28px; letter-spacing: -0.5px; }
     .sub { font-size: 13px; fill: #a1a1aa; }
     .code { font-size: 13px; fill: #e4e4e7; }
@@ -50,7 +50,7 @@
 
   <!-- Title Section -->
   <g transform="translate(36, 82)">
-    <text class="mono title" fill="url(#emeraldGrad)">AZAT MADIYEV</text>
+    <text class="mono title" fill="url(#emeraldGrad)">Azat Madiyev</text>
     <text x="210" y="-3" class="mono" font-size="12" fill="#71717a">(@abbakkio)</text>
     <text x="0" y="24" class="mono sub">Mathematical &amp; Computational Science • Systems &amp; macOS Architecture</text>
   </g>
